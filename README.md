@@ -46,7 +46,7 @@
 ## GitHub Status:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruba-datta&show_icons=true&theme=gotham&hide=issues" alt="dhruba-datta" />
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruba-datta&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)" alt="dhruba-datta" />
+<p align="center"> <img src="https://github-readme-stats.dhruba-datta.vercel.app/api/top-langs/?username=dhruba-datta&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db" alt="dhruba-datta" />
 
   
 
