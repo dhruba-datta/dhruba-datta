@@ -46,6 +46,5 @@
 ## GitHub Status:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruba-datta&show_icons=true&theme=gotham&hide=issues" alt="dhruba-datta" />
-[![Top Langs](https://github-readme-stats.preveenraj.vercel.app/api/top-langs/?username=preveenraj&langs_count=10&layout=compact&hide_border=true&bg_color=00000000&text_color=3498db)](https://github.com/preveenraj/github-readme-stats)
-  
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruba-datta&layout=compact&theme=gotham" alt="dhruba-datta" /> 
 
