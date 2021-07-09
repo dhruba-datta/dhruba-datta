@@ -46,4 +46,5 @@
 ## GitHub Status:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruba-datta&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="dhruba-datta" />
+  
 ![](./assets/bottom_header.svg)
