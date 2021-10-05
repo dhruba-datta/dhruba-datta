@@ -7,6 +7,17 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruba-datta.dhruba-datta")
 
+## Coding Profiles:
+<a href="https://leetcode.com/dhrubadatta/">
+  <img align="left" alt="Dhruba's Leetcode" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/leetcode.svg" />
+</a>
+<a href="https://codeforces.com/profile/dhrubadatta">
+  <img align="left" alt="Dhruba's Codeforce" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/code-forces.svg" />
+</a>
+
+<br />
+<br />
+
 ## Contact Me:
 <a href="https://www.facebook.com/dhruba.datta.anjan/">
   <img align="left" alt="Dhruba's Facebook" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/facebook.svg" />
