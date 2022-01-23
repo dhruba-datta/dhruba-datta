@@ -8,7 +8,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruba-datta.dhruba-datta")
 
 ## Coding Profiles:
-<a href="https://leetcode.com/dhrubadatta/">
+<a href="https://leetcode.com/dhruba-datta/">
   <img align="left" alt="Dhruba's Leetcode" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/leetcode.svg" />
 </a>
 <a href="https://codeforces.com/profile/dhrubadatta">
