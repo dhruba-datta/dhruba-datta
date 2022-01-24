@@ -49,7 +49,7 @@
 <img align="left" alt="css" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/css.svg" />
 <img align="left" alt="js" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/js.svg" />
 <img align="left" alt="bootstrap" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/bootstrap.svg" />
-<img align="left" alt="vs code" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/vs.svg" />
+
 
 <br />
 <br />
