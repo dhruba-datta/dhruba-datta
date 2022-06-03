@@ -1,4 +1,5 @@
-# Hey there, I'm  [DHRUBA DATTA](https://dhruba-datta.netlify.app) <img src="https://giphy.com/embed/HMUBjBWVbjiYU" width="25px"> 
+# Hey there, I'm  [DHRUBA DATTA](https://dhruba-datta.netlify.app) <img src="https://media.giphy.com/stickers/hi-HMUBjBWVbjiYU.gif" width="25px"> 
+
 
 ### I'm an undergraduate student at Delhi Technological University. I try to bring the vision of stunning digital experience into life. Back in my school days, entering into a new world of technology seized my interest hence I choose software engineering as my major for undergraduate study. As an amateur trying in leisure for photography and creating YouTube content took a change for novelty.
 
