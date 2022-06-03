@@ -1,4 +1,4 @@
-# Hey there, I'm  [DHRUBA DATTA](https://dhruba-datta.netlify.app) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  <div style="width:100%;height:0;padding-bottom:87%;position:relative;"><iframe src="https://giphy.com/embed/HMUBjBWVbjiYU" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/hi-HMUBjBWVbjiYU">via GIPHY</a></p>
+# Hey there, I'm  [DHRUBA DATTA](https://dhruba-datta.netlify.app) <img src="https://giphy.com/embed/HMUBjBWVbjiYU" width="25px"> 
 
 ### I'm an undergraduate student at Delhi Technological University. I try to bring the vision of stunning digital experience into life. Back in my school days, entering into a new world of technology seized my interest hence I choose software engineering as my major for undergraduate study. As an amateur trying in leisure for photography and creating YouTube content took a change for novelty.
 
