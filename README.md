@@ -60,6 +60,7 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 <img align="left" alt="linux" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linux.svg" />
 <img align="left" alt="tailwindcss" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/tailwindcss.svg" />
 <img align="left" alt="photoshop" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/photoshop.svg" />
+<img align="left" alt="premiere-pro" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/premiere-pro.svg" />
 
 <br />
 <br />
