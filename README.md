@@ -26,20 +26,20 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 <br />
 
 ## Contact Me:
-<a href="https://discord.gg/zazf3BgJK7">
-  <img align="left" alt="Dhruba's Facebook" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/discord.svg" />
+<a href="https://www.linkedin.com/in/dhruba-datta/">
+  <img align="left" alt="Dhruba's LinkedIN" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/dhrubz_/">
   <img align="left" alt="Dhruba's Instagram" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" />
 </a>
-<a href="https://www.linkedin.com/in/dhruba-datta/">
-  <img align="left" alt="Dhruba's LinkedIN" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linkedin.svg" />
+<a href="https://discord.gg/zazf3BgJK7">
+  <img align="left" alt="Dhruba's Facebook" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/discord.svg" />
 </a>
 <a href="https://www.youtube.com/DhrubaDattaAnjan">
   <img align="left" alt="Dhruba's Youtube" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/youtube.svg" />
 </a>
-<a href="https://www.twitter.com/dhruba_anjan/">
-  <img align="left" alt="Dhruba's Twitter" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/twitter.svg" />
+<a href="https://t.me/dhrubzzz">
+  <img align="left" alt="Dhruba's Twitter" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/telegram.svg" />
 </a>
 
 
