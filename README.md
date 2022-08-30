@@ -25,7 +25,7 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 <br />
 <br />
 
-## Contact Me:
+## Social Medias:
 <a href="https://www.linkedin.com/in/dhruba-datta/">
   <img align="left" alt="Dhruba's LinkedIN" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linkedin.svg" />
 </a>
