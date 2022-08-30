@@ -1,20 +1,19 @@
-# Hey, I'm  [DHRUBA DATTA](https://dhruba-datta.netlify.app)👋🏻
+# Hey, I'm [DHRUBA DATTA](https://dhruba-datta.netlify.app)👋🏻
 
+I'm an undergraduate student at **Delhi Technological University** doing my major in **Software Engineering**.
 
-I'm an undergraduate student at **Delhi Technological University** doing my major in **Software Engineering**. 
-* 🌍  I'm from Dhaka, Bangladesh
-* ✨  Mostly active & contribute to [Leetcode](https://leetcode.com/dhruba-datta/)
-* 🧠  Currently focusing on **Data Structre & Algorithms**
-* 📫  Reach me [dhrubadattaanjan@gmail.com](mailto:dhrubadattaanjan@gmail.com)
-
+- 🌍 I'm from Dhaka, Bangladesh
+- ✨ Mostly active & contribute to [Leetcode](https://leetcode.com/dhruba-datta/)
+- 🧠 Currently focusing on **Data Structre & Algorithms**
+- 📫 Reach me [dhrubadattaanjan@gmail.com](mailto:dhrubadattaanjan@gmail.com)
 
 <br />
 
 ![](https://img.shields.io/github/followers/dhruba-datta?style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruba-datta.dhruba-datta")
 
-
 ## Coding Profile:
+
 <a href="https://leetcode.com/dhruba-datta/">
   <img align="left" alt="Dhruba's Leetcode" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/leetcode.svg" />
 </a>
@@ -26,6 +25,7 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 <br />
 
 ## Social Media:
+
 <a href="https://www.linkedin.com/in/dhruba-datta/">
   <img align="left" alt="Dhruba's LinkedIN" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linkedin.svg" />
 </a>
@@ -47,7 +47,6 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 
 ## Languages & Tools:
 
-
 <img align="left" alt="c" width="33px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c-programming.svg" />
 <img align="left" alt="c++" width="33px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c++.svg" />
 <img align="left" alt="html" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/html.svg" />
@@ -61,7 +60,6 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 <img align="left" alt="linux" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linux.svg" />
 <img align="left" alt="tailwindcss" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/tailwindcss.svg" />
 <img align="left" alt="photoshop" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/photoshop.svg" />
-<img align="left" alt="premiere-pro" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/premiere-pro.svg" />
 
 <br />
 <br />
