@@ -45,7 +45,7 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 <br />
 <br />
 
-## Languages & Tools:
+## Technology Stack:
 
 <img align="left" alt="c" width="33px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c-programming.svg" />
 <img align="left" alt="c++" width="33px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c++.svg" />
