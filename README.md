@@ -68,6 +68,6 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 
 ## GitHub Status:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhruba-datta&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="dhruba-datta" />
-  
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=dhruba-datta&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="dhruba-datta" /> <img src="http://github-readme-streak-stats.herokuapp.com?user=dhruba-datta&theme=highcontrast&hide_border=true&background=DD272700&ring=FFFFFF" alt="dhruba-datta" />
+
 ![](./assets/bottom_header.svg)
