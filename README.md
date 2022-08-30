@@ -56,7 +56,12 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 <img align="left" alt="css" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/css.svg" />
 <img align="left" alt="js" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/js.svg" />
 <img align="left" alt="bootstrap" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/bootstrap.svg" />
-
+<img align="left" alt="figma" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/figma.svg" />
+<img align="left" alt="git" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/git.svg" />
+<img align="left" alt="netlify" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/netlify.svg" />
+<img align="left" alt="react" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/react.svg" />
+<img align="left" alt="linux" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linux.svg" />
+<img align="left" alt="tailwind-css" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/tailwind-css.svg" />
 
 <br />
 <br />
