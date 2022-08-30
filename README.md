@@ -1,4 +1,4 @@
-# Hey there, I'm  [DHRUBA DATTA](https://dhruba-datta.netlify.app)👋🏻
+## Hey there, I'm  [DHRUBA DATTA](https://dhruba-datta.netlify.app)👋🏻
 
 
 I'm an undergraduate student at **Delhi Technological University** doing my major in **Software Engineering**. 
