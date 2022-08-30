@@ -1,12 +1,18 @@
-# Hey there, I'm  [DHRUBA DATTA](https://dhruba-datta.netlify.app) <img src="[https://media.giphy.com/stickers/hi-HMUBjBWVbjiYU.gif](https://media.giphy.com/media/HMUBjBWVbjiYU/giphy.gif)" width="25px"> 
+# Hey there, I'm  [DHRUBA DATTA](https://dhruba-datta.netlify.app)👋🏻
 
 
-### I'm an undergraduate student at Delhi Technological University. I try to bring the vision of stunning digital experience into life. Back in my school days, entering into a new world of technology seized my interest hence I choose software engineering as my major for undergraduate study. As an amateur trying in leisure for photography and creating YouTube content took a change for novelty.
+I'm an undergraduate student at **Delhi Technological University** doing my major in **Software Engineering**. 
+* 🌍  I'm from Dhaka, Bangladesh
+* ✨  Mostly active & contribute to [Leetcode](https://leetcode.com/dhruba-datta/)
+* 🧠  Currently focusing on **Data Structre & Algorithms**
+* 📫  Reach me [dhrubadattaanjan@gmail.com](mailto:dhrubadattaanjan@gmail.com)
+
 
 <br />
 
-
+![](https://img.shields.io/github/followers/dhruba-datta?style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruba-datta.dhruba-datta")
+
 
 ## Coding Profiles:
 <a href="https://leetcode.com/dhruba-datta/">
