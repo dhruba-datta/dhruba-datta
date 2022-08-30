@@ -26,8 +26,8 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 <br />
 
 ## Contact Me:
-<a href="https://www.facebook.com/dhruba.datta.anjan/">
-  <img align="left" alt="Dhruba's Facebook" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/facebook.svg" />
+<a href="https://discord.gg/zazf3BgJK7">
+  <img align="left" alt="Dhruba's Facebook" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/discord.svg" />
 </a>
 <a href="https://www.instagram.com/dhrubz_/">
   <img align="left" alt="Dhruba's Instagram" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/instagram.svg" />
