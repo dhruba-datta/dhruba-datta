@@ -42,9 +42,7 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
   <img align="left" alt="Dhruba's Twitter" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/telegram.svg" />
 </a>
 
-
 <br />
-
 <br />
 
 ## Languages & Tools:
