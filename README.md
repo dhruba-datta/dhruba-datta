@@ -14,7 +14,7 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruba-datta.dhruba-datta")
 
 
-## Coding Profiles:
+## Coding Profile:
 <a href="https://leetcode.com/dhruba-datta/">
   <img align="left" alt="Dhruba's Leetcode" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/leetcode.svg" />
 </a>
@@ -25,7 +25,7 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 <br />
 <br />
 
-## Social Medias:
+## Social Media:
 <a href="https://www.linkedin.com/in/dhruba-datta/">
   <img align="left" alt="Dhruba's LinkedIN" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linkedin.svg" />
 </a>
