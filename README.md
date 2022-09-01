@@ -46,21 +46,21 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 
 ## Technology Stack:
 <p align="left">
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c-programming.svg" alt="c" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c++.svg" alt="c++" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/html.svg" alt="html" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/css.svg" alt="css" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/js.svg" alt="js" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/react.svg" alt="react" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/bootstrap.svg" alt="bootstrap" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/figma.svg" alt="figma" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/netlify.svg" alt="netlify" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/git.svg" alt="git" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/google-cloud.svg" alt="google-cloud" width="40" height="40"/></a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linux.svg" alt="linux" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/tailwindcss.svg" alt="tailwindcss" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/photoshop.svg" alt="photoshop" width="40" height="40"/></a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/premiere-pro.svg" alt="premiere-pro" width="40" height="40"/></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c-programming.svg" alt="c" width="40" /> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/c++.svg" alt="c++" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/html.svg" alt="html" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/css.svg" alt="css" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/js.svg" alt="js" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/react.svg" alt="react" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/bootstrap.svg" alt="bootstrap" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/figma.svg" alt="figma" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/netlify.svg" alt="netlify" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/git.svg" alt="git" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/linux.svg" alt="linux" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/tailwindcss.svg" alt="tailwindcss" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/google-cloud.svg" alt="google-cloud" width="40" /></a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/photoshop.svg" alt="photoshop" width="40" /></a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/premiere-pro.svg" alt="premiere-pro" width="40" /></a> 
 </p>
 
 <br />
