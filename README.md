@@ -68,6 +68,5 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 ## Profile Status:
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruba-datta&show_icons=true&hide_border=true&bg_color=00000000&text_color=3498db&hide=issues" alt="dhruba-datta" /> 
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=dhruba-datta&theme=tokyonight_duo&hide_border=true&background=DD272700&fire=FF0000&ring=FF5403&currStreakNum=FF3A13" alt="dhruba-datta" />
-<p align="center"> <img align="center" src="https://leetcode-stats.vercel.app/api?username=dhruba-datta&theme=Dark" alt="dhruba-datta" /> 
 
 ![](./assets/bottom_header.svg)
