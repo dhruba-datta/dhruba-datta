@@ -3,7 +3,7 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 
 - 🌍 I'm from **Dhaka, Bangladesh**
 - ✨ Mostly active & contribute to [**Leetcode**](https://leetcode.com/dhruba-datta/)
-- 🧠 Currently focusing on **Data Structre & Algorithms**
+- 🧠 Currently focusing on **Machine Learning**
 - 📫 Reach me [**dhrubadattaanjan@gmail.com**](mailto:dhrubadattaanjan@gmail.com)
 
 <br />
