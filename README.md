@@ -37,7 +37,7 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 <a href="https://www.youtube.com/DhrubaDattaAnjan">
   <img align="left" alt="Dhruba's Youtube" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/youtube.svg" />
 </a>
-<a href="https://t.me/dhrubzzz">
+<a href="https://t.me/dhruba_datta_anjan">
   <img align="left" alt="Dhruba's Twitter" width="32px" src="https://github.com/dhruba-datta/dhruba-datta/blob/main/assets/telegram.svg" />
 </a>
 
