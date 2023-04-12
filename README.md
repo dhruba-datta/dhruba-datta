@@ -8,7 +8,6 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 
 <br />
 
-![](https://img.shields.io/github/followers/dhruba-datta?style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=dhruba-datta.dhruba-datta")
 
 ## Coding Profile:
