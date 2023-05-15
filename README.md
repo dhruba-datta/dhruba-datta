@@ -7,7 +7,7 @@ I'm an undergraduate student at **Delhi Technological University** doing my majo
 
 <br />
 
-![](https://visitor-badge.glitch.me/badge?page_id=dhruba-datta.dhruba-datta")
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruba-datta&label=Profile%20views&color=0e75b6&style=flat" alt="dhruba-datta" /> </p>
 
 ## Coding Profile:
 
