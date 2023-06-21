@@ -1,5 +1,5 @@
 # <p align="center"> Hey, I'm [DHRUBA DATTA](https://dhruba-datta.netlify.app)<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px">
-I'm an undergraduate student at **Delhi Technological University** doing my major in **Software Engineering**.
+I recently graduated from **Delhi Technological University** with a major in **Software Engineering**.
 
 - 🌍 I'm from **Bangladesh**
 - ✨ I mostly contribute to [**Leetcode**](https://leetcode.com/dhruba-datta/)
